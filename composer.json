@@ -6,7 +6,7 @@
         "name": "wordpress/wordpress",
         "version": "5.8",
         "dist": {
-          "url": "https://wordpress.org/wordpress-5.8.zip",
+          "url": "https://wordpress.org/latest.zip",
           "type": "zip"
         }
       }
